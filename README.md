@@ -40,6 +40,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 ## Installing Python
  - Simply go to https://www.python.org/downloads/ and install the latest version.
     - Make sure to select the option "Add python.exe to PATH" and simply click on "Install Now"
+    [!image](https://github.com/Y0SH1J/HapagVenture/blob/[branch]/image.jpg?raw=true)
     
  <hr/>
  
