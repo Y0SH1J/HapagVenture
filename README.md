@@ -96,13 +96,16 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 
  Congratulations! You have your database ready.
  
- ## Connecting MySQL database with Python
+ ## Working on the Python files
+ You can open the Python IDLE. Go to **File -> Open -> [File Name]**.
+ ### Connecting MySQL database with Python
  - In the files **End_Screen.py** and **MySQLPrint_CustomerInfo**, make sure the following code has the correct information.
  ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/20c96358-375d-4c13-8814-eff7a8e3b7cd)
 
-## Final touches
+### Final touches
 - In the following files, change the file path of certain variables to the one in your system. (You can simply use Ctrl+H to replace the text)   
     - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
+- Press **Ctrl+F5/Run -> Run Module** to run the file Main.py
 
 <hr/>
 
