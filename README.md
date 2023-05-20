@@ -52,7 +52,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
    > py -m pip install pygame
   - Install pandas
   > py -m install pandas
-  - Pygame text input
+  - Install pygame text input
   > py -m pip install pygame-textinput
   - Install MySQL onnector
    > py -m pip install mysql-connector-python
