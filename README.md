@@ -17,7 +17,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
     - RAM: 4 GB RAM
 
 
-2. MySQL Workbench
+2. MySQL
 
     <strong>Minimum Hardware Requirements</strong>
     
