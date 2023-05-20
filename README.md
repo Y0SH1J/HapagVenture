@@ -70,23 +70,23 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
     - Execute the configuration steps
     - You don't need to do anything with the MySQL Router Configuration
     - Enter root password
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/08cd01d3-5a91-4478-9c19-cc524816c99d)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/6.PNG?raw=true)
     
  - After the installation has been completed, you should be presented with a window as shown below
- ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/86f1608b-f584-4750-b262-b0e3d4290140)
+ ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/7.PNG?raw=true)
  - You have two options from here on out
     1. Use the root account for creating the database
         - Simply click on **Local instance MySQL80** and enter the root password
     2. Create a connection with the user account you have added in the earlier steps
         - Click on the + icon <br/>
-        ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/d72fca1b-5219-4f09-855c-53e7474e190c)
+        ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/8.PNG?raw=true)
         - Enter the username and click on Test connection. You will be prompted to add the password for the user
-        ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/df66c063-4f19-4b2b-8a63-6e36dfe55a72)
+        ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/9.PNG?raw=true)
         - If the test is successful you will be presented with the following window. Click on the new MySQL connection created.
-        ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/546d12fd-ca25-4b36-a436-921f17eacad6)
+        ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/10.PNG?raw=true)
         
     Both the steps will lead you to the same window. Simply add the following code and execute the commands with **Ctrl+Shift+Enter**.
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/9fc26170-da37-42fb-af6c-ac15b7945a90)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/11.PNG?raw=true)
     > CREATE DATABASE hapaggame;
     
     > USE hapaggame;
