@@ -112,7 +112,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 
 ### Converting the game into an executable (optional)
 - In cmd, go to the directory where Main.py is located. Run the following commands
-> py -m pip install pyinstaller
+> py -m pip install pyinstaller (If not installed)
 
 > pyinstaller --noconsole Main.py
 
