@@ -52,6 +52,8 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
    > py -m pip install pygame
   - Install pandas
   > py -m install pandas
+  - Pygame text input
+  > py -m pip install pygame-textinput
   - Install MySQL onnector
    > py -m pip install mysql-connector-python
  
@@ -98,6 +100,8 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  - In the files **End_Screen.py** and **MySQLPrint_CustomerInfo**, make sure the following code has the correct information.
  ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/20c96358-375d-4c13-8814-eff7a8e3b7cd)
 
-
+## Final touches
+- In the following files, change the file path to the one in your system. (You can simply use Ctrl+H to replace the text)   
+    - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
 
 
