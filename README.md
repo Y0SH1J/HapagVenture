@@ -104,4 +104,5 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 - In the following files, change the file path of certain variables to the one in your system. (You can simply use Ctrl+H to replace the text)   
     - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
 
+#And we are done! Enjoy the game :) 
 
