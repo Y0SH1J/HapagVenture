@@ -99,7 +99,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  ## Working on the Python files
  You can open the Python IDLE. Go to **File -> Open -> [File Name]**.
  ### Connecting MySQL database with Python
- - In the files **End_Screen.py** and **MySQLPrint_CustomerInfo**, make sure the following code has the correct information.
+ - In the files **End_Screen.py** and **MySQLPrint_CustomerInfo.py**, make sure the following code has the correct information.
  ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/20c96358-375d-4c13-8814-eff7a8e3b7cd)
 
 ### Final touches
@@ -107,6 +107,21 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
     - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
 - Press **Ctrl+F5/Run -> Run Module** to run the file Main.py
 
+### Viewing information in Excel
+- Ensure that there is a file named **CustomerData** in the same directory as your python files
+- Close the excel document if open. Run the file **MySQLPrint_CustomerInfo.py**. Now you can view the customer data.
+
+### Converting the game into an executable (optional)
+- In cmd, go to the directory where Main.py is located. Run the following commands
+> py -m pip install pyinstaller
+
+> pyinstaller --noconsole Main.py
+
+- Copy paste the following files from the folder ..\Code2 to ..\dist\Main
+    - ARCADEPI.ttf, Fipps-Regular.otf, ps4_keys.json
+- You will see an executable file in ..\dist\Main called **Main.py**. Click on it to run the game.
+    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/4c4e5f25-6464-4007-8e77-15d290901585)
+ 
 <hr/>
 
 # And we are done! Enjoy the game :) 
