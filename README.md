@@ -119,7 +119,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 - Copy paste the following files from the folder ..\Code2 to ..\dist\Main
     - ARCADEPI.ttf, Fipps-Regular.otf, ps4_keys.json
 - You will see an executable file in ..\dist\Main called **Main.py**. Click on it to run the game.
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/4c4e5f25-6464-4007-8e77-15d290901585)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/13.PNG?raw=true)
  
 <hr/>
 
