@@ -40,7 +40,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 ## Installing Python
  - Simply go to https://www.python.org/downloads/ and install the latest version.
     - Make sure to select the option "Add python.exe to PATH" and simply click on "Install Now"
-    [!image](https://github.com/Y0SH1J/HapagVenture/blob/[branch]/image.jpg?raw=true)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/1.PNG?raw=true)
     
  <hr/>
  
@@ -61,7 +61,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  **NOTE: The steps mentioned over here are implemented with the aim of running the game locally. Feel free to experiment with the steps for your requirements.**
  - Simply go to https://dev.mysql.com/downloads/windows/installer/8.0.html and install the **mysql-installer-community-8.0.33.0.msi** version.
     - Chose Developer Default
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/389bc333-a8f6-4de5-a7cd-02c47c589180)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/389bc333-a8f6-4de5-a7cd-02c47c589180)
     - After executing the required installations, chose **Development Computer** as the Config type
     ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/7131d118-7ccc-4805-b8d9-8b68a603852b)
     - In Account and Roles, set your root account password.
