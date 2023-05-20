@@ -124,4 +124,4 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 <hr/>
 
 # And we are done! Enjoy the game :) 
-## Note: This is a prototype for the game. It is not optimized and requires further finalizations.
+## Note: This is a prototype for the game. It is not optimized.
