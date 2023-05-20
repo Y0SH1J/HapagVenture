@@ -101,7 +101,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/20c96358-375d-4c13-8814-eff7a8e3b7cd)
 
 ## Final touches
-- In the following files, change the file path to the one in your system. (You can simply use Ctrl+H to replace the text)   
+- In the following files, change the file path of certain variables to the one in your system. (You can simply use Ctrl+H to replace the text)   
     - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
 
 
