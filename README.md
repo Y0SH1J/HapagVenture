@@ -57,7 +57,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
   - Install MySQL onnector
    > py -m pip install mysql-connector-python
  
- ## Installing MySQL Workbench
+ ## Installing MySQL
  **NOTE: The steps mentioned over here are implemented with the aim of running the game locally. Feel free to experiment with the steps for your requirements.**
  - Simply go to https://dev.mysql.com/downloads/windows/installer/8.0.html and install the **mysql-installer-community-8.0.33.0.msi** version.
     - Chose Developer Default
@@ -104,5 +104,6 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
 - In the following files, change the file path of certain variables to the one in your system. (You can simply use Ctrl+H to replace the text)   
     - Main.py, mainMenu.py, AnimatedIntro.py, decorations.py, Enemy.py, game_data.py, level.py, overworld.py, particles.py, Player.py, Quiz.py, ui.py, End_Screen.py
 
-#And we are done! Enjoy the game :) 
+
+# And we are done! Enjoy the game :) 
 
