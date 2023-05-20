@@ -99,7 +99,7 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  You can open the Python IDLE. Go to **File -> Open -> [File Name]**.
  ### Connecting MySQL database with Python
  - In the files **End_Screen.py** and **MySQLPrint_CustomerInfo.py**, make sure the following code has the correct information.
- ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/20c96358-375d-4c13-8814-eff7a8e3b7cd)
+ ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/12.PNG?raw=true)
 
 ### Final touches
 - In the following files, change the file path of certain variables to the one in your system. (You can simply use Ctrl+H to replace the text)   
