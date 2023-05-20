@@ -61,13 +61,12 @@ This README is a short walkthrough of how to get HapagVenture running. It is onl
  **NOTE: The steps mentioned over here are implemented with the aim of running the game locally. Feel free to experiment with the steps for your requirements.**
  - Simply go to https://dev.mysql.com/downloads/windows/installer/8.0.html and install the **mysql-installer-community-8.0.33.0.msi** version.
     - Chose Developer Default
-    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/389bc333-a8f6-4de5-a7cd-02c47c589180)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/2.PNG?raw=true)
     - After executing the required installations, chose **Development Computer** as the Config type
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/7131d118-7ccc-4805-b8d9-8b68a603852b)
-    - In Account and Roles, set your root account password.
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/3.PNG?raw=true)
     - Next click on Add Users. The following settings are enough to get our game running.
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/f55e7f4c-eeb6-4359-8c33-58f056ac2cdd)
-    ![image](https://github.com/Y0SH1J/HapagVenture/assets/122041317/b2af331a-0ca6-4975-9e60-7acea3e39d45)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/4.PNG?raw=true)
+    ![image](https://github.com/Y0SH1J/HapagVenture/blob/main/5.PNG?raw=true)
     - Execute the configuration steps
     - You don't need to do anything with the MySQL Router Configuration
     - Enter root password
